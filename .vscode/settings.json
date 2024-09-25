@@ -1,0 +1,12 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.quickSuggestionsDelay": 10,
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggest.showInlineDetails": true,
+    "editor.suggest.showClasses": true,
+    "editor.parameterHints.enabled": true
+}

@@ -10,7 +10,7 @@ x,y=int(input("első:")),int(input("második:"));print("Összeadás:",x+y,"kivon
 # 5. ^ csak valós számokkal
 x,y=float(input("első:")),float(input("második:"));print("Összeadás:",x+y,"kivonás:",x-y,"szorzás:",x*y,"osztás:",x/y,"maradékos:",x%y)
 # 6. hatványok
-a=float(input("Minek a hatványát: "));print("Négyzete:",a**2,"Köb:",a**3)
+a=float(input("Minek a hatványát: "));b=float(input("Másik szám:"));print("Négyzete:",a**2,"Köb:",a**3,"Saját:",a**b)
 # 7. téglalap
 w,h=float(input("X: ")),float(input("Y: "))
 print("Kerület:",w*2+h*2,"Terület",w*h)
